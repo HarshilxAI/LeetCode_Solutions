@@ -1,1 +1,75 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 LeetCode Solutions
+
+<div align="left">
+
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
+![Language](https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=openjdk)
+![Status](https://img.shields.io/badge/Auto%20Sync-Enabled-green?style=for-the-badge)
+
+</div>
+
+##  About This Repository
+
+This repository contains all of my solved **LeetCode** problems.
+
+Every solution that I solve on LeetCode is automatically synced and pushed to this repository through a direct integration with my LeetCode account.
+
+###  Automatic Updates
+
+-  Repository is directly connected to LeetCode.
+-  Solutions are pushed automatically after submission.
+-  No manual daily commits are required.
+-  Simply solve problems on LeetCode and the repository updates itself.
+-  Maintains a structured archive of my coding journey.
+
+---
+
+##  Purpose
+
+This repository serves as:
+
+- A record of my Data Structures & Algorithms practice.
+- A collection of LeetCode solutions for future reference.
+- A way to track my consistency and problem-solving progress.
+- A showcase of my coding journey and learning process.
+
+---
+
+##  Topics Covered
+
+- Arrays
+- Strings
+- Linked Lists
+- Stacks & Queues
+- Trees
+- Graphs
+- Hashing
+- Recursion
+- Dynamic Programming
+- Greedy Algorithms
+- Binary Search
+- Sliding Window
+- Two Pointers
+- Backtracking
+- And many more...
+
+---
+
+##  Workflow
+
+```text
+Solve Problem on LeetCode
+            ↓
+Automatic Sync Triggered
+            ↓
+Solution Pushed to GitHub
+            ↓
+Repository Updated
+```
+
+---
+
+##  Goal
+
+To continuously improve problem-solving skills, strengthen DSA concepts, and maintain a well-organized archive of LeetCode solutions.
+
