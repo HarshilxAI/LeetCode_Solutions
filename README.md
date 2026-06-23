@@ -96,6 +96,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -108,4 +109,8 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
