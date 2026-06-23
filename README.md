@@ -88,4 +88,16 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
