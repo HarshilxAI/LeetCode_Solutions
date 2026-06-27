@@ -84,6 +84,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -119,4 +120,12 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
