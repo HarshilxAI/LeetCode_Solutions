@@ -107,6 +107,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -117,6 +118,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | ------- |
 | [0036-valid-sudoku](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
