@@ -118,6 +118,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
@@ -148,4 +149,8 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | ------- |
 | [0242-valid-anagram](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
