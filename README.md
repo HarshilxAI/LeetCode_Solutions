@@ -119,6 +119,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0036-valid-sudoku](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -136,4 +137,12 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
