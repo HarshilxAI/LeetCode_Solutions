@@ -105,6 +105,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -157,6 +158,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0069-sqrtx) |
 ## Stack
 |  |
 | ------- |
