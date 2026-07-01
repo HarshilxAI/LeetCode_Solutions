@@ -175,20 +175,24 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
