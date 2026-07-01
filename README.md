@@ -116,6 +116,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -129,6 +130,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0036-valid-sudoku](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
