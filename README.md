@@ -110,6 +110,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0066-plus-one](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
