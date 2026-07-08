@@ -95,6 +95,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
 | ------- |
@@ -111,6 +112,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0069-sqrtx](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +129,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
 | ------- |
