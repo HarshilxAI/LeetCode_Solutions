@@ -90,6 +90,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0242-valid-anagram) |
