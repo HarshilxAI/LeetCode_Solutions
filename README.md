@@ -92,6 +92,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -111,6 +112,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -257,4 +259,12 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
