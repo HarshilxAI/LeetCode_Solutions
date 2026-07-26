@@ -83,6 +83,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0036-valid-sudoku](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -96,6 +97,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0067-add-binary](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -183,6 +185,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | ------- |
 | [0242-valid-anagram](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
@@ -271,6 +274,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | ------- |
 | [0067-add-binary](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
