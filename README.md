@@ -155,6 +155,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0414-third-maximum-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -192,6 +193,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0389-find-the-difference](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
@@ -249,6 +251,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
