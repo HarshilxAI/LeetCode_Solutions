@@ -83,6 +83,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0036-valid-sudoku](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -97,6 +98,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0067-add-binary](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -105,6 +107,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
@@ -291,4 +294,8 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
