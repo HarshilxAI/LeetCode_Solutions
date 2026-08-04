@@ -88,6 +88,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3731-find-missing-elements](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -167,6 +168,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -200,6 +202,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3731-find-missing-elements](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
