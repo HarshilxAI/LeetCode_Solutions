@@ -139,6 +139,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0070-climbing-stairs](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0120-triangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -157,6 +158,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0120-triangle) |
 | [0268-missing-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
