@@ -233,6 +233,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0100-same-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -249,6 +250,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0111-minimum-depth-of-binary-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Sliding Window
 |  |
 | ------- |
@@ -269,6 +271,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
