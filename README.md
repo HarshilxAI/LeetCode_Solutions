@@ -127,6 +127,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0171-excel-sheet-column-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -175,6 +176,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
