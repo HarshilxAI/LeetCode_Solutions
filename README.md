@@ -105,6 +105,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
@@ -144,6 +145,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0119-pascals-triangle-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0120-triangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -185,6 +187,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | ------- |
 | [0016-3sum-closest](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
 | ------- |
@@ -200,6 +203,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
