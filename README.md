@@ -129,6 +129,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0171-excel-sheet-column-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -144,6 +145,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0118-pascals-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0120-triangle) |
+| [1140-stone-game-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
@@ -151,6 +153,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
@@ -168,6 +171,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0268-missing-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -328,4 +332,16 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
