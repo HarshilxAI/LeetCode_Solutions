@@ -127,6 +127,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0070-climbing-stairs](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
@@ -139,6 +140,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -312,6 +314,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 ## Simulation
