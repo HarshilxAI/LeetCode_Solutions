@@ -87,6 +87,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0389-find-the-difference](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3731-find-missing-elements](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -177,6 +178,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1386-cinema-seat-allocation](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -210,6 +212,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -317,6 +320,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0231-power-of-two](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [1386-cinema-seat-allocation](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
 ## Simulation
 |  |
 | ------- |
