@@ -90,6 +90,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [1386-cinema-seat-allocation](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -110,12 +111,14 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -196,6 +199,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +224,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
