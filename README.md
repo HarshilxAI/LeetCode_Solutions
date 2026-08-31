@@ -123,6 +123,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
 | ------- |
