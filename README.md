@@ -169,6 +169,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [1140-stone-game-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Array
 |  |
 | ------- |
@@ -199,6 +200,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [3718-smallest-missing-multiple-of-k](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
