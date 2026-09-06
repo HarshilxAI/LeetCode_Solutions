@@ -101,6 +101,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0038-count-and-say](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0242-valid-anagram) |
@@ -154,6 +155,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0120-triangle) |
