@@ -107,6 +107,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0242-valid-anagram](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0940-distinct-subsequences-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -159,6 +160,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0118-pascals-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0120-triangle) |
+| [0940-distinct-subsequences-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
