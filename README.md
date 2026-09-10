@@ -274,6 +274,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0101-symmetric-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -281,6 +282,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0100-same-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -290,6 +292,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0101-symmetric-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
