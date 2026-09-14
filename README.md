@@ -141,6 +141,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0231-power-of-two](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -400,4 +401,8 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
