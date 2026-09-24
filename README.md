@@ -146,6 +146,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [1510-stone-game-iv](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3870-count-commas-in-range) |
@@ -206,6 +207,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
