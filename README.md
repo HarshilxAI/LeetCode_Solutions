@@ -98,6 +98,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
@@ -272,6 +273,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -407,4 +409,8 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
