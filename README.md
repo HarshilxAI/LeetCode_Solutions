@@ -174,6 +174,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -214,6 +215,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [3718-smallest-missing-multiple-of-k](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
@@ -241,6 +243,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -361,6 +364,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [0389-find-the-difference](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
