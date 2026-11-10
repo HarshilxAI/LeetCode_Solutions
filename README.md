@@ -173,6 +173,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [1510-stone-game-iv](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
@@ -212,6 +213,7 @@ To continuously improve problem-solving skills, strengthen DSA concepts, and mai
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/HarshilxAI/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
